@@ -27,6 +27,6 @@
 25. git rm --cached <file> - delete the file from the version control system(git), but still, it can be tracked in the repository. It also can be re-added on the version control system.
 26. git reset --hard - In addition to unstaging changes, the --hard flag tells Git to overwrite all changes in the working directory, too. Be sure you want to throw away your local developments before using it.
 27. git --version - check the git version.
-28. git config --global user.email'...@gmail.com'/name'Name.. - add email and name respectively.
+28. git config --global user.email '...@gmail.com' / name'Name..' - add email and name respectively.
 29. git pull upstream main - pulls the most recent commits from the main branch of the upstream to the local repo
 30. git push - pushes the pulled changes from the local repo to the remote repo.
