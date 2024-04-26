@@ -1,5 +1,7 @@
 # TERMINAL COMMANDS AND THEIR FUNCTIONS
 
+# Open in the code editor to view all text in the document.
+
 1. mkdir <folder> - creating a directory.
 2. cd <folder> - navigates the current location of the terminal to a specific folder.
 3. git init - initializes the folder in which the terminal is currently in.
