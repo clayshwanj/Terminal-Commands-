@@ -30,3 +30,4 @@
 28. git config --global user.email '...@gmail.com' / name'Name..' - add email and name respectively.
 29. git pull upstream main - pulls the most recent commits from the main branch of the upstream to the local repo
 30. git push - pushes the pulled changes from the local repo to the remote repo.
+31. git pull origin main - updates the local repo(in the pc) with changes merged in the remote repo(in the git hub accont).
