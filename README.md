@@ -33,3 +33,7 @@
 29. git pull upstream main - pulls the most recent commits from the main branch of the upstream to the local repo
 30. git push - pushes the pulled changes from the local repo to the remote repo.
 31. git pull origin main - updates the local repo(in the pc) with changes merged in the remote repo(in the git hub accont).
+32. git rm -r --cached - remove folders inside a repo.
+33. npm i -g live-server - install live server in terminal.
+34. live-server - run live server in terminal.
+35. git remote set-url origin https://...com - change the origin link of a repo.
