@@ -37,3 +37,6 @@
 33. npm i -g live-server - install live server in terminal.
 34. live-server - run live server in terminal.
 35. git remote set-url origin https://...com - change the origin link of a repo.
+36. node script.js - run console for a javascript file in the terminal once.
+37. npm i -g nodemon - install nodemon globally.Nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+38. nodemon script.js - continuosly run the console in terminal.
