@@ -15,28 +15,29 @@
 11. git push -u origin main - used when pushing commits for the first time in order to set upstream using the flag(-u/--set-upsteam)
 12. git push - pushes commits if an upstream has already been set.
 13. git branch <branch_name> - creates a new branch.
-14. git checkout <branch_name> - switches terminal to the specified branch.16.git branch -r - view all remote branches.
-15. git branch -a - view all local and remote branches.
-16. git status - gives information about the current location(desktop,folder,branch.etc) of the terminal.
-17. ls - shows contents of the current working directory.
-18. git pull upstream - allows developers to pull changes made or merged in the upstream in order to have the most recent updates.
-19. git config --global init.defaultBranch main - set configuration values on a global level or local project level.
-20. rm -rf <folder> - deleting a directory and all its files.
-21. git clone <https://....> - copies an existing git repository to the local machine.
-22. git remote -v - views all links available (both orgin and upstream)
-23. git remote add upstream <https://....> - adds an upstream link.
-24. mv <oldfile> <newfile> - changes the file name.(strictly takes 2 arguments)
-25. git rm --cached <file> - delete the file from the version control system(git), but still, it can be tracked in the repository. It also can be re-added on the version control system.
-26. git reset --hard - In addition to unstaging changes, the --hard flag tells Git to overwrite all changes in the working directory, too. Be sure you want to throw away your local developments before using it.
-27. git --version - check the git version.
-28. git config --global user.email '...@gmail.com' / name'Name..' - add email and name respectively.
-29. git pull upstream main - pulls the most recent commits from the main branch of the upstream to the local repo
-30. git push - pushes the pulled changes from the local repo to the remote repo.
-31. git pull origin main - updates the local repo(in the pc) with changes merged in the remote repo(in the git hub accont).
-32. git rm -r --cached - remove folders inside a repo.
-33. npm i -g live-server - install live server in terminal.
-34. live-server - run live server in terminal.
-35. git remote set-url origin https://...com - change the origin link of a repo.
-36. node script.js - run console for a javascript file in the terminal once.
-37. npm i -g nodemon - install nodemon globally.Nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
-38. nodemon script.js - continuosly run the console in terminal.
+14. git checkout <branch_name> - switches terminal to the specified branch.
+15. git branch -r - view all remote branches.
+16. git branch -a - view all local and remote branches.
+17. git status - gives information about the current location(desktop,folder,branch.etc) of the terminal.
+18. ls - shows contents of the current working directory.
+19. git pull upstream - allows developers to pull changes made or merged in the upstream in order to have the most recent updates.
+20. git config --global init.defaultBranch main - set configuration values on a global level or local project level.
+21. rm -rf <folder> - deleting a directory and all its files.
+22. git clone <https://....> - copies an existing git repository to the local machine.
+23. git remote -v - views all links available (both orgin and upstream)
+24. git remote add upstream <https://....> - adds an upstream link.
+25. mv <oldfile> <newfile> - changes the file name.(strictly takes 2 arguments)
+26. git rm --cached <file> - delete the file from the version control system(git), but still, it can be tracked in the repository. It also can be re-added on the version control system.
+27. git reset --hard - In addition to unstaging changes, the --hard flag tells Git to overwrite all changes in the working directory, too. Be sure you want to throw away your local developments before using it.
+28. git --version - check the git version.
+29. git config --global user.email '...@gmail.com' / name'Name..' - add email and name respectively.
+30. git pull upstream main - pulls the most recent commits from the main branch of the upstream to the local repo
+31. git push - pushes the pulled changes from the local repo to the remote repo.
+32. git pull origin main - updates the local repo(in the pc) with changes merged in the remote repo(in the git hub accont).
+33. git rm -r --cached - remove folders inside a repo.
+34. npm i -g live-server - install live server in terminal.
+35. live-server - run live server in terminal.
+36. git remote set-url origin https://...com - change the origin link of a repo.
+37. node script.js - run console for a javascript file in the terminal once.
+38. npm i -g nodemon - install nodemon globally.Nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+39. nodemon script.js - continuosly run the console in terminal.
